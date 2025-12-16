@@ -6,13 +6,13 @@ A simple website for my personal profile
 >> src
 >>> assets
     -- Images
-    css
+    > css
     -- style.css
     -- about.css
-    pages
+    > pages
     -- about page
 -- index.html
 -- README.md
 
 ### Technologies Used
-HTML and CSS.
+HTML and CSS
