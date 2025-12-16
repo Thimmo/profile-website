@@ -1,0 +1,30 @@
+body {
+    background-color: #1e0311;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 180%;
+    margin-top: 24px;
+    color: #f8f1e7;
+}
+
+h1 {
+    margin-top: 48px;
+    color: #f8f1e7;
+}
+
+.link {
+    margin-top: 48px;
+}
+
+a {
+    color: #11c553;
+}
+
+div {
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    align-content: center; margin-left: 500px;
+}
